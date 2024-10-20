@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dineyrator</string>
+
+    <string name="home_search">Pesquisar</string>
+    <string name="home_total">Total</string>
+    <string name="home_add_transaction">Adicionar transação</string>
+    <string name="home_last_transactions">Últimas transações</string>
+    <string name="home_new_transactions">Nova transação</string>
+    <string name="home_transaction">Transação</string>
+    <string name="home_amount">Valor</string>
+    <string name="home_date">Data</string>
+    <string name="home_add">Adicionar</string>
+
+    <string name="cd_ic_menu">menu</string>
+    <string name="cd_ic_profile">perfil</string>
+
+</resources>
